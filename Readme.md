@@ -20,11 +20,11 @@ for scripts that are a bit more than trivial.
 ## Features
 
 - **skeleton-no-deps.bash** - basic bash script no dependencies
-- **skeleton-with-ksl-lib.bash** - basic bash script using library `ksl-bash-lib`
+- **skeleton-with-ksl-lib.bash** - basic bash script using library [ksl-bash-lib](https://github.com/KingSolomon1954/ksl-bash-lib)
 - **usage-from-prolog-in-color.bash** - fragment showing using color in prolog
 
 ## Usage
 
-* Choose a script from src folder
+* Choose a script from `src` folder
 * Copy it (from clipboard, from clone, whatever)
 * Then modify it for yourself

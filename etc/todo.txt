@@ -1,0 +1,7 @@
+Bash Bootstrap
+--------------
+TODO: separate Skeleton to its own folder/repo
+TODO: conditional call to main or bash_unit
+TODO: add approvals testing to skeleton
+TODO: add shellcheck https://github.com/koalaman/shellcheck
+

@@ -1,0 +1,15 @@
+# Typical workspace files
+.vscode
+_build
+Readme.html
+*~
+\#*\#
+.#*
+.$*.bkp
+.DS_Store
+
+# Executables
+*.exe
+*.out
+*.app
+
